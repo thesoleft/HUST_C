@@ -6,7 +6,6 @@
 #define N 100000
 
 int main() { 
-    printf("1");
-    
+    printf("2");
     return 0;
 }  
